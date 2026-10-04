@@ -1,3 +1,5 @@
 Commit 1 - Tronco inicial
 Commit 2 - Rama amarilla 1
 Commit 3 - Rama amarilla 1
+Commit 6 - Rama amarilla 2
+Commit 7 - Rama amarilla 2
